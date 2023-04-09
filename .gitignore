@@ -1,3 +1,6 @@
+# EC2 instance
+notes-api-server.pem
+
 # Logs
 logs
 *.log
